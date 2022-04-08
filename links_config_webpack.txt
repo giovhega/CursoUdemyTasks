@@ -1,0 +1,6 @@
+https://webpack.js.org/loaders/html-loader/
+https://webpack.js.org/plugins/html-webpack-plugin/
+https://webpack.js.org/loaders/css-loader/
+https://webpack.js.org/loaders/style-loader/
+https://webpack.js.org/plugins/mini-css-extract-plugin/
+https://v4.webpack.js.org/loaders/file-loader/
